@@ -1,0 +1,9 @@
+requests
+pillow
+openai
+opencv-python
+volcengine-python-sdk[ark]
+supervision==0.27.0
+ui-tars
+torchcodec
+torch
